@@ -1,16 +1,8 @@
-# flictionary
+# Flictionary
+#### A flutter dictionary
 
-A new Flutter project.
+![demonstate_search](https://user-images.githubusercontent.com/82430454/143388211-b3b00da5-5868-4db4-a532-91b334e7939f.jpg)
 
-## Getting Started
+![demonstrate](https://user-images.githubusercontent.com/82430454/143388215-2c195e3f-4303-4ebd-96c1-2f800c21d347.jpg)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![cat](https://user-images.githubusercontent.com/82430454/143388216-0529b729-7dc1-4f2c-9b44-006968122aba.jpg)
